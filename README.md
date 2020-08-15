@@ -36,6 +36,11 @@
 <br />
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Laravel - How to Auto Set a Timezone for Users](https://blog.medhicham.com/en/blog-en/laravel-how-to-auto-set-a-timezone-for-users)
+- [4 Laravel Eloquent methods For a Clean Refactor](https://blog.medhicham.com/en/blog-en/4-laravel-eloquent-methods-for-a-clean-refactor)
+- [3 Steps to Backup your Laravel Application to DigitalOcean Spaces](https://blog.medhicham.com/en/blog-en/3-steps-to-backup-your-laravel-web-application-to-digitalocean-spaces)
+- [Draggable JS – A new JavaScript drag and drop library](https://blog.medhicham.com/en/?view=article&id=125:draggable-js-a-new-javascript-drag-and-drop-library&catid=37)
+- [How to use the new API resources feature in Laravel 5.5](https://blog.medhicham.com/en/blog-en/how-to-use-the-new-api-resources-feature-in-laravel-5-5)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
