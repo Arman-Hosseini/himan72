@@ -46,9 +46,9 @@
 ➡️ [more blog posts...](https://blog.medhicham.com)
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary> Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="himan72's Github Stats" src="https://github-readme-stats.hicham72.vercel.app/api?username=himan72&show_icons=true&hide_border=true" />
 
 </details>
 
