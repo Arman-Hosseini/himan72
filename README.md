@@ -33,7 +33,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Laravel - How to Auto Set a Timezone for Users](https://blog.medhicham.com/en/blog-en/laravel-how-to-auto-set-a-timezone-for-users)
@@ -42,7 +42,6 @@
 - [Draggable JS – A new JavaScript drag and drop library](https://blog.medhicham.com/en/?view=article&id=125:draggable-js-a-new-javascript-drag-and-drop-library&catid=37)
 - [How to use the new API resources feature in Laravel 5.5](https://blog.medhicham.com/en/blog-en/how-to-use-the-new-api-resources-feature-in-laravel-5-5)
 <!-- BLOG-POST-LIST:END -->
-<br />
 
 ➡️ [more blog posts...](https://blog.medhicham.com)
 
