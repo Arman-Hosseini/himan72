@@ -13,8 +13,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="blog.medhicham.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Mohammed Hicham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
+[udemy][<img align="left" alt="Mohammed Hicham | Udemy" width="22px" src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" />][udemy]
 <br />
 ### Languages and Tools:
 
@@ -54,3 +55,4 @@
 
 [website]: https://blog.medhicham.com
 [twitter]: https://twitter.com/hicham720
+[udemy]: https://www.udemy.com/user/hichammomo/
