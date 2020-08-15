@@ -14,8 +14,8 @@
 ### Connect with me:
 
 [<img align="left" alt="blog.medhicham.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Mohammed Hicham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[udemy][<img align="left" alt="Mohammed Hicham | Udemy" width="22px" src="https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg" />][udemy]
+[<img align="left" alt="Mohammed Hicham | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][udemy]
+[<img align="left" alt="Mohammed Hicham | Udemy" width="22px" src="https://e7.pngegg.com/pngimages/76/565/png-clipart-udemy-coupon-logo-discounts-and-allowances-sales-formula-one-logo-love-text.png" />][udemy]
 <br />
 ### Languages and Tools:
 
