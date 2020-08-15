@@ -37,6 +37,7 @@
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<br />
 
 ➡️ [more blog posts...](https://blog.medhicham.com)
 
